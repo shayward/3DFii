@@ -13,7 +13,6 @@ Luma3DS Game Patching
 Knowledge
 <br>
 *********************
-<br>
 Alright so lets jump right in!
 <br>
 Make sure you unlink your NNID before doing any of this.
