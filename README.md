@@ -43,3 +43,7 @@ Go to Tools->HOSTS and enable it and type "(your local IP from command prompt) a
 Then finally restart Fiddler4 and turn on your 3DS and go to settings and register for a NNID and hopefully it should register just fine.
 <br>
 And to unregister simply turn off the proxy on your 3ds and login using a random password and hope that it will allow you to create a new account.
+
+# Credits
+SciresM - For 3DS SSL Patch
+If I forgot anybody else please hit me up on the Discord.
