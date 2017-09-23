@@ -31,7 +31,7 @@ API.prototype.serverRequest = function(req, res, next) {
 }
 
 API.prototype.addApiGetBaseFromString = function(base, baseString, nintendoDate = false) {
-	app.get(`${this.apiPath}/{$base}`, function (req, res) {
+	app.get(`${this.apiPath}/${base}`, function (req, res) {
 		if (nintendoDate)
 			res.set("X-Nintendo-Date", Date.now());
 
@@ -40,7 +40,7 @@ API.prototype.addApiGetBaseFromString = function(base, baseString, nintendoDate 
 };
 
 API.prototype.addApiGetBaseFromFile = function(base, filePath, nintendoDate = false) {
-	app.get(`${this.apiPath}/{$base}`, function (req, res) {
+	app.get(`${this.apiPath}/${base}`, function (req, res) {
 		if (nintendoDate)
 			res.set("X-Nintendo-Date", Date.now());
 
@@ -49,7 +49,7 @@ API.prototype.addApiGetBaseFromFile = function(base, filePath, nintendoDate = fa
 };
 
 API.prototype.addApiPostBaseFromString = function(base, baseString, nintendoDate = false) {
-	app.get(`${this.apiPath}/{$base}`, function (req, res) {
+	app.get(`${this.apiPath}/${base}`, function (req, res) {
 		if (nintendoDate)
 			res.set("X-Nintendo-Date", Date.now());
 
@@ -58,7 +58,7 @@ API.prototype.addApiPostBaseFromString = function(base, baseString, nintendoDate
 };
 
 API.prototype.addApiPostBaseFromFile = function(base, filePath, nintendoDate = false) {
-	app.get(`${this.apiPath}/{$base}`, function (req, res) {
+	app.get(`${this.apiPath}/${base}`, function (req, res) {
 		if (nintendoDate)
 			res.set("X-Nintendo-Date", Date.now());
 
