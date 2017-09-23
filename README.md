@@ -12,7 +12,7 @@ Luma3DS Game Patching
 <br>
 Knowledge
 <br>
--------------------------
+*********************
 <br>
 Alright so lets jump right in!
 <br>
@@ -46,4 +46,5 @@ And to unregister simply turn off the proxy on your 3ds and login using a random
 
 # Credits
 SciresM - For 3DS SSL Patch
+<br>
 If I forgot anybody else please hit me up on the Discord.
