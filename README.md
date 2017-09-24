@@ -14,9 +14,7 @@ Luma3DS Game Patching
 <br>
 Knowledge
 <br>
-<br>
 *********************
-<br>
 <br>
 Alright so lets jump right in!
 <br>
