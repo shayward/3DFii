@@ -1,4 +1,4 @@
-# OpenServices
+# 3DFii
 NOTICE: This is **UNFINISHED** so please **DO NOT COMPLAIN** if it breaks on you.
 <br>
 Discord: https://discord.gg/3U3qxha
@@ -61,6 +61,6 @@ Then finally restart Fiddler4 and turn on your 3DS and go to settings and regist
 And to unregister simply turn off the proxy on your 3ds and login using a random password and hope that it will allow you to create a new account.
 
 # Credits
-SciresM - For 3DS SSL Patch
+SciresM - For 3DS SSL patch
 <br>
 If I forgot anybody else please hit me up on the Discord.
