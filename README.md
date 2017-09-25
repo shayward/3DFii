@@ -34,7 +34,7 @@ Open Command Prompt and type ipconfig and find your local IP, you'll need this f
 Go to 3DS Settings and go to Internet settings and select your WiFi that is going to be used for this and hit change settings then go to proxy settings and turn it on and then hit detailed setup and then enter your local IP from the last step into proxy server and port 8888 into port and let it do a connection test and hopefully it connected successfully.
 <br>
 <br>
-Download this repository from here https://github.com/xKyup/OpenServices/archive/master.zip and download this https://file.io/hUc2rE and extract it somewhere.
+Download this repository from here https://github.com/ProjectFii/3DFii/archive/master.zip and join the Discord and go to announcements and find the pack.zip in pinned messages and extract it somewhere.
 <br>
 <br>
 Then move ClientCertificate.cer to Documents->Fiddler2 or Documents->Fiddler4 depending on what version and sometimes Fiddler4 uses the Fiddler2 folder.
